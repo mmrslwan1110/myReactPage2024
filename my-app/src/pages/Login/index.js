@@ -16,7 +16,7 @@ const Login = () => {
             rules={[
               {
                 required: true,
-                message: '请输入手机号',
+                message: '请输入手机号o',
               },
               {
                 pattern: /^1[3-9]\d{9}$/,
